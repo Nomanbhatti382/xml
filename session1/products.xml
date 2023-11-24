@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productlist>
+<product id="12341">
+    <name>laptop core i7</name> 
+    <price>120,000</price>
+     <description>Intel Core i7 is a line of Intel processors which consists of powerful and value-driven laptops. Most of the processors from this series contain six or four cores, and the speed range lies from 2.6 GHz to 3.7 GHz.</description>
+</product>
+<product id="12342">
+    <name>laptop core i5</name> 
+    <price>100,000</price>
+    <description> The Core i5 processor has three, four, or six megabytes of cache and is available at several speeds ranging from 1.90 GHz to 3.80 GHz. Depending on the motherboard, it uses the LGA 1150 or LGA 1155 socket. Four cores make up the quad-core configuration of Core i5 processors.</description>
+</product>
+<product id="12343">
+    <name>laptop core i3</name> 
+    <price>90,000</price>
+    <description>The Dell Core i3 has a 4 GB of installed RAM and makes this laptop very responsive. It has a built-in 500 GB of the Hard drive having a speed of 5400 RPM and ...</description>
+</product>
+<product id="12344">
+    <name>bike honda 125</name> 
+    <price>\275,000</price>
+    <description></description>
+</product>
+<product id="12345">
+    <name>laptop core i7</name> 
+    <price>120,000</price>
+    <description>Intel Core i7 is a line of Intel processors which consists of powerful and value-driven laptops. Most of the processors from this series contain six or four cores, and the speed range lies from 2.6 GHz to 3.7 GHz.</description>
+</product>
+<product id="12346">
+    <name>laptop core i7</name> 
+    <price>120,000</price>
+    <description>Intel Core i7 is a line of Intel processors which consists of powerful and value-driven laptops. Most of the processors from this series contain six or four cores, and the speed range lies from 2.6 GHz to 3.7 GHz.</description>
+</product>
+<product>
+    <name>laptop core i7</name> 
+    <price>120,000</price>
+    <Id>1460823</Id>
+    <description>Intel Core i7 is a line of Intel processors which consists of powerful and value-driven laptops. Most of the processors from this series contain six or four cores, and the speed range lies from 2.6 GHz to 3.7 GHz.</description>
+</product>
+<product>
+    <name>laptop core i7</name> 
+    <price>120,000</price>
+    <Id>1460823</Id>
+    <description>Intel Core i7 is a line of Intel processors which consists of powerful and value-driven laptops. Most of the processors from this series contain six or four cores, and the speed range lies from 2.6 GHz to 3.7 GHz.</description>
+</product>
+<product>
+    <name>laptop core i7</name> 
+    <price>120,000</price>
+    <Id>1460823</Id>
+    <description>Intel Core i7 is a line of Intel processors which consists of powerful and value-driven laptops. Most of the processors from this series contain six or four cores, and the speed range lies from 2.6 GHz to 3.7 GHz.</description>
+</product>
+
+
+
+
+
+</productlist>

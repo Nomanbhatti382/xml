@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentlist>
+    <student>
+        <name>Noman Bhatti</name>
+        <course>DISM</course>
+        <fees>8100/</fees>
+    </student>
+    <student>
+        <name>Usman</name>
+        <course>DISM</course>
+        <fees>8100/</fees>
+    </student> <student>
+        <name>Ali </name>
+        <course>DISM</course>
+        <fees>8100/</fees>
+    </student> <student>
+        <name>Hamza</name>
+        <course>DISM</course>
+        <fees>8100/</fees>
+    </student> <student>
+        <name>Abdullah</name>
+        <course>DISM</course>
+        <fees>8100/</fees>
+    </student> <student>
+        <name>Bilal</name>
+        <course>DISM</course>
+        <fees>8100/</fees>
+    </student>
+</studentlist>
